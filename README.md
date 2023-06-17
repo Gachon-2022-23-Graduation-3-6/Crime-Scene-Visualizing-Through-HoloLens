@@ -77,16 +77,24 @@ Using Unity Photon a multi a networking framework for realtime Unity multiplayer
 ## Main Features
 
 1. **Timeline**<br><br>
+   We basically load the text file from server to read the text file that contains the event of case, and to each event, we show a brief animation with the according action. Furthermore, we can make a simple animation while running Hololens by action buttons.
+
+<p align="center">
+     <img src="https://github.com/SevngIl/Crime-Scene-Visualizing-Through-HoloLens/blob/main/timeline.png" width="400">
+   </p>
 
 2. **Posting**<br><br>
 
+<p align="center">
+     <img src="https://github.com/SevngIl/Crime-Scene-Visualizing-Through-HoloLens/blob/main/posting.png" width="400">
+   </p>
+
 3. **Highlighting**<br><br>
    We have implemented a highlighting feature that emphasizes the outline of the target object. This is accomplished by creating an additional object that is 1.1 times the size of the target, and overlapping it with the original object to highlight its outline.
-   
+
    <p align="center">
      <img src="https://github.com/SevngIl/Crime-Scene-Visualizing-Through-HoloLens/blob/main/highlight.png" width="400">
    </p>
-
 
 ## TEAM
 
@@ -100,7 +108,7 @@ Using Unity Photon a multi a networking framework for realtime Unity multiplayer
     </tr>
     <tr>
         <td align="center">201835441</td>
-        <td align="center"></td>
+        <td align="center">201735833</td>
         <td align="center">202035359</td>
         <td align="center">201835499</td>
         <td align="center">201835544</td>
