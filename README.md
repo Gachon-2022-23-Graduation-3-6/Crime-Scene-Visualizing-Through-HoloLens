@@ -44,12 +44,14 @@ And Share it with other device users.
         <td align="center"><b>김한뫼</b></td>
         <td align="center"><b>박재준</b></td>
         <td align="center"><b>이도경</b></td>
+        <td align="center"><b>이준혁</b></td>
         <td align="center"><b>한승일</b></td>
     </tr>
     <tr>
         <td align="center">201835441</td>
         <td align="center"></td>
         <td align="center">202035359</td>
+        <td align="center">201835499</td>
         <td align="center">201835544</td>
     </tr>
     <tr style="background-color: white;">
@@ -61,6 +63,9 @@ And Share it with other device users.
         </td>
         <td align="center">
 	    <code>Modeling</code><br><code>######</code>
+        </td>
+        <td align="center">
+	    <code>Functionality</code><br><code>Posting</code>
         </td>
         <td align="center">
             <code>Functionality</code><br><code>Highlighting</code>
