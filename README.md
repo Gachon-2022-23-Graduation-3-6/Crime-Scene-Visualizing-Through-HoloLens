@@ -82,7 +82,9 @@ Using Unity Photon a multi a networking framework for realtime Unity multiplayer
 
 3. Highlighting
    We have implemented a highlighting feature that emphasizes the outline of the target object. This is accomplished by creating an additional object that is 1.1 times the size of the target, and overlapping it with the original object to highlight its outline.
-   ![hightlight](https://github.com/SevngIl/Crime-Scene-Visualizing-Through-HoloLens/blob/main/highlight.png)
+   <div style="text-align:center">
+     <img src="https://github.com/SevngIl/Crime-Scene-Visualizing-Through-HoloLens/blob/main/highlight.png" width="400">
+   </div>
 
 ## TEAM
 
