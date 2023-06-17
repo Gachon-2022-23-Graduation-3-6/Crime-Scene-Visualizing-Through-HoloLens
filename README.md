@@ -16,3 +16,7 @@ We suggest the application that novice user can replicate a crime scene by timel
 And Share it with other device users.
 
 ![objective1](https://github.com/SevngIl/Crime-Scene-Visualizing-Through-HoloLens/blob/main/objective1.png)
+
+## Functionality & Implementation
+
+![basic_figure](https://github.com/SevngIl/Crime-Scene-Visualizing-Through-HoloLens/blob/main/basic_figure.png)
