@@ -76,15 +76,17 @@ Using Unity Photon a multi a networking framework for realtime Unity multiplayer
 
 ## Main Features
 
-1. Timeline
+1. **Timeline**<br><br>
 
-2. Posting
+2. **Posting**<br><br>
 
-3. Highlighting
+3. **Highlighting**<br><br>
    We have implemented a highlighting feature that emphasizes the outline of the target object. This is accomplished by creating an additional object that is 1.1 times the size of the target, and overlapping it with the original object to highlight its outline.
-   <div style="text-align:center">
+   
+   <p align="center">
      <img src="https://github.com/SevngIl/Crime-Scene-Visualizing-Through-HoloLens/blob/main/highlight.png" width="400">
-   </div>
+   </p>
+
 
 ## TEAM
 
