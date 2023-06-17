@@ -19,4 +19,10 @@ And Share it with other device users.
 
 ## Functionality & Implementation
 
+### Basic Figure of Scripting
+
 ![basic_figure](https://github.com/SevngIl/Crime-Scene-Visualizing-Through-HoloLens/blob/main/basic_figure.png)
+
+### System UI
+
+![system_ui](https://github.com/SevngIl/Crime-Scene-Visualizing-Through-HoloLens/blob/main/system_ui.png)
